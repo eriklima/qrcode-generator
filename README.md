@@ -47,12 +47,12 @@ Para este CSV:
 
 ```
 EMPRESA;NOME;EMAIL;CARGO;TELEFONE;SITE
-Near Location;Erik Lima;erik.lima@nearlocation.com.br;Tech Lead;48 3233-1031;www.nearlocation.com.br
+TopMaster;Erik Lima;erik.lima@topmaster.com.br;Tech Lead;48 3233-1031;www.topmaster.com.br
 ```
 
 É criado este VCARD:
 
-> BEGIN:VCARDVERSION:3.0TEL;WORK;VOICE:48 3233-1031URL:www.nearlocation.com.brEMAIL:erik.lima@nearlocation.com.brFN:Teste TestandoORG:Near LocationTITLE:Tech LeadEND:VCARD
+> BEGIN:VCARDVERSION:3.0TEL;WORK;VOICE:48 3233-1031URL:www.topmaster.com.brEMAIL:erik.lima@topmaster.com.brFN:Teste TestandoORG:Top MasterTITLE:Tech LeadEND:VCARD
 
 Que gera este QR Code:
 
@@ -62,7 +62,7 @@ Que corresponde a este Contato:
 
     Erik Lima
     Número: 48 3233-1031 (WORK)
-    E-mail: erik.lima@nearlocation.com.br
-    Empresa: Near Location
+    E-mail: erik.lima@topmaster.com.br
+    Empresa: Top Master
     Título: Tech Lead
-    URL: www.nearlocation.com.br
+    URL: www.topmaster.com.br

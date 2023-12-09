@@ -1,12 +1,12 @@
 import os
 import qrcode
 
-empresa = "Near Location"
+empresa = "Top Master"
 nome_completo = "Erik Lima"
 cargo = "Tech Lead"
-email = "erik.lima@nearlocation.com.br"
+email = "erik.lima@topmaster.com.br"
 telefone = "48 3233-1031"
-site = "www.nearlocation.com.br"
+site = "www.topmaster.com.br"
 
 
 def main():
