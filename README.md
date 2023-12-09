@@ -61,7 +61,7 @@ Que gera este QR Code:
 Que corresponde a este Contato:
 
     Erik Lima
-    Número: 48 3233-1031 (WORK)
+    Número: 99 9999-9999 (WORK)
     E-mail: erik.lima@topmaster.com.br
     Empresa: Top Master
     Título: Tech Lead
